@@ -1,7 +1,9 @@
 package main
-package os
 
-import "fmt"
+import (
+    "fmt"
+    "os"
+)
 
 func main() {
 
